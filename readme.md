@@ -1,15 +1,17 @@
-Expense-Tracker
-│
+## Project Structure
+
+```text
+Expense-Tracker/
 ├── Expenses_Trackor.cpp
 ├── readme.md
-└── ScreenShots
+└── ScreenShots/
     ├── 1)Add_Expense(1).png
     ├── 2)Add_Expense(2).png
     ├── 3)Display_Expenses.png
     ├── 4)Total_Amount.png
     ├── 5)Highest_Expense.png
     └── 6)Exit.png
-
+```
 
 
 # Expense Tracker
