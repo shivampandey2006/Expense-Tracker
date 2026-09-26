@@ -76,7 +76,7 @@ g++ Expense_Tracker.cpp -o Expense_Tracker
 <img width="540" height="143" alt="image" src="https://github.com/user-attachments/assets/0090ba15-5943-4c9c-8d7f-922cd41df7be" />
 
 
-## 7) exit
+## 6) exit
 
  <img width="621" height="242" alt="image" src="https://github.com/user-attachments/assets/025e1736-a26a-4f4c-b7c9-63e15e87d4ed" />
 
